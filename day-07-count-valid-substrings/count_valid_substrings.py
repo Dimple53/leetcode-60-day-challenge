@@ -41,3 +41,4 @@ if __name__ == "__main__":
         print(f"Brute Force: {brute_result}")
         print(f"Optimized:   {optimized_result}")
         print("-" * 30)
+
